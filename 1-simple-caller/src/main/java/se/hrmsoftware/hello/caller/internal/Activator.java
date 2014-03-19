@@ -41,6 +41,8 @@ public class Activator implements BundleActivator {
 				// Release reference
 				context.ungetService(ref);
 			}
+		} else {
+			LOG.info("No HelloService available at this time :(");
 		}
 	}
 
