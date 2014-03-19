@@ -11,3 +11,5 @@ Introduces OSGi by going through:
 4. Service Trackers
 5. Configuration
 6. Declarative Services
+
+Check the [wiki](https://github.com/hrmsoftware/osgi-introduction/wiki) for more information.
