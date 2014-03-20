@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>service-api</module>
+        <module>service-api-v2</module>
         <module>1-simple-service</module>
         <module>1-simple-caller</module>
         <module>1-another-service</module>
