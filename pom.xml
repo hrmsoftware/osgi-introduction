@@ -11,6 +11,7 @@
         <module>service-api</module>
         <module>1-simple-service</module>
         <module>1-simple-caller</module>
+        <module>1-another-service</module>
     </modules>
     <packaging>pom</packaging>
 
