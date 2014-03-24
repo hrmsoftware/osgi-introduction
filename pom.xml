@@ -16,6 +16,7 @@
         <module>service-api-v2</module>
         <module>3-configured-service</module>
         <module>4-ds-service</module>
+        <module>4-ds-caller</module>
     </modules>
     <packaging>pom</packaging>
 
